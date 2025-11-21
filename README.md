@@ -1,1 +1,1 @@
-This is a Eat Out Web App.
+This is an Eat Out Web App.
